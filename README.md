@@ -1,8 +1,8 @@
-# {ThisMyFavouriteBand}
-#### {Simple fansite}, {2021}
-#### By **{Evans Mwiti}**
+# ThisMyFavouriteBand
+#### Simple fansite, 2021
+#### By **Evans Mwiti**
 ## Description
-{This is a fansite for my favourite band. }
+This is a fansite for my favourite band.
 ## Setup/Installation Requirements
 * The site is compatible with all browsers.
 ## Known Bugs
@@ -33,4 +33,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*
-Copyright (c) {2021} **{Evans Mutwiri}**
+Copyright (c) 2021 **Evans Mutwiri**
