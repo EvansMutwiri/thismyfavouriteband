@@ -1,6 +1,6 @@
-# {ThisMyFavouriteBand}
-#### {Simple fansite}, {2021}
-#### By **{Evans Mwiti}**
+# ThisMyFavouriteBand
+#### Simple fansite, 2021
+#### By **Evans Mwiti**
 ## Description
 {This is a fansite for my favourite band. }
 ## Setup/Installation Requirements
