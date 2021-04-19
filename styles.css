@@ -48,6 +48,7 @@ img{
     font-stretch: expanded;
     font-size: 28px;
     border-bottom: 10px;
+    clear: both;
 }
 .footer{
     text-align: center;
